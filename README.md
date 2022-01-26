@@ -1,4 +1,4 @@
-###✨Hi there! Welcome to Carolina Barreto’s profile✨
+✨###Hi there! Welcome to Carolina Barreto’s profile✨
 
 - 🔭 Currently working on front-end;
 - 🌱 I’m a enginner software student;
