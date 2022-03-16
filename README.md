@@ -14,7 +14,7 @@
 <div> 
   <a href="https://instagram.com/olacarol" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   
-  ![Snake animation](https://github.com/olacarol/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/olacarol/olacarol/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
