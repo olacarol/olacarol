@@ -1,7 +1,7 @@
 ✨Hi there! Welcome to my profile✨
 
 - 🔭 Currently working on front-end;
-- 🌱 I’m a software engineer student;
+- 🌱 Software engineering student;
 
 <div align="center">
   <a href="https://github.com/olacarol">
